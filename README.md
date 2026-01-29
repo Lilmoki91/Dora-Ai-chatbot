@@ -76,9 +76,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 Have feedback or questions? Feel free to reach out by opening an [issue](https://github.com/Lilmoki91/Dora-Ai-chatbot/issues).
 
-- 💬 Telegram: https://t.me/johansetia  
+## Contact
 
-📧 Gmail: https://mail.google.com/mail/?view=cm&to=khairuldinsuyitno@gmail.com
+- 📧 Gmail: https://mail.google.com/mail/?view=cm&to=khairuldinsuyitno@gmail.com  
+- 💬 Telegram: https://t.me/johansetia
+
 ---
 
 ### Note
