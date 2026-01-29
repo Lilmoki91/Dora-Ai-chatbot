@@ -28,7 +28,10 @@ Have feedback or questions? Feel free to reach out by opening an [issue](https:/
 [contact]
 Telegram: (https://t.me/johansetia).
 [Email]
-Gmail: (https://mailto/khairuldinsuyitno@gmail.com)
+Gmail: 
+<button onclick="window.location.href='mailto:khairuldinsuyitno@gmail.com'">
+  📧 Email Kami
+</button>
 
 ------------------------------------
 
