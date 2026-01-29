@@ -72,7 +72,7 @@ Please ensure that your code adheres to the project's coding style.
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
+## Issue
 
 Have feedback or questions? Feel free to reach out by opening an [issue](https://github.com/Lilmoki91/Dora-Ai-chatbot/issues).
 
