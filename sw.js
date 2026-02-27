@@ -1,39 +1,93 @@
-const CACHE_NAME = 'dora-ai-cache-v1';
+// ==============================================
+// 🔄 DORA AI SERVICE WORKER - VERSI BETUL v3
+// ==============================================
 
+const CACHE_NAME = 'dora-ai-cache-v3'; // Tukar version!
 const FILES_TO_CACHE = [
   './',
   './index.html',
-  './manifest.json'
+  './manifest.json',
+  './icon-192.png',
+  './icon-512.png',
+  './icon-192-maskable.png',
+  './icon-512-maskable.png'
+  // Jangan cache API calls
 ];
 
-// Install
+// ==============================================
+// 📦 INSTALL - Cache semua fail
+// ==============================================
 self.addEventListener('install', event => {
+  console.log('⚙️ Installing Service Worker v3...');
+  
   event.waitUntil(
-    caches.open(CACHE_NAME).then(cache => {
-      return cache.addAll(FILES_TO_CACHE);
-    })
+    caches.open(CACHE_NAME)
+      .then(cache => {
+        console.log('📦 Caching files...');
+        return cache.addAll(FILES_TO_CACHE);
+      })
+      .then(() => {
+        console.log('✅ Cache siap!');
+        return self.skipWaiting(); // Aktifkan segera
+      })
   );
-  self.skipWaiting();
 });
 
-// Activate
+// ==============================================
+:// 🚀 ACTIVATE - BUANG CACHE LAMA (PENTING!)
+// ==============================================
 self.addEventListener('activate', event => {
+  console.log('⚡ Activating new Service Worker...');
+  
   event.waitUntil(
     caches.keys().then(keys => {
       return Promise.all(
-        keys.filter(key => key !== CACHE_NAME)
-            .map(key => caches.delete(key))
+        keys.map(key => {
+          // 🔥 BUANG semua cache version lama
+          if (key !== CACHE_NAME) {
+            console.log(`🗑️ Deleting old cache: ${key}`);
+            return caches.delete(key);
+          }
+        })
       );
+    }).then(() => {
+      console.log('✅ Service Worker v3 sedia!');
+      // 🔥 Ambil alih semua tabs
+      return self.clients.claim();
     })
   );
-  self.clients.claim();
 });
 
-// Fetch
+// ==============================================
+:// 🔄 FETCH - Cache First, Network Second
+// ==============================================
 self.addEventListener('fetch', event => {
+  const url = event.request.url;
+  
+  // 🔥 JANGAN cache API calls
+  if (url.includes('googleapis.com') || 
+      url.includes('workers.dev') || 
+      url.includes('gateway.pinata.cloud') ||
+      url.includes('api.')) {
+    return;
+  }
+  
   event.respondWith(
-    caches.match(event.request).then(response => {
-      return response || fetch(event.request);
-    })
+    caches.match(event.request)
+      .then(cachedResponse => {
+        if (cachedResponse) {
+          return cachedResponse;
+        }
+        return fetch(event.request).then(response => {
+          // Cache untuk lain masa
+          if (response.status === 200) {
+            const responseClone = response.clone();
+            caches.open(CACHE_NAME).then(cache => {
+              cache.put(event.request, responseClone);
+            });
+          }
+          return response;
+        });
+      })
   );
 });
