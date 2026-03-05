@@ -1256,12 +1256,12 @@ ul li::before {
 </div>
 </div>
 
-
-    <!-- Tab Icon dan Info Donasi -->
+<!-- Tab Icon dan Info Donasi -->
     <div style="margin-top: 30px; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 5px; font-size: 12px; color: #aaa;">
-      <p style="margin-bottom: 10px; line-height: 1.4; text-align: center; font-size: 14px; color: #fff;">
+      <p style="margin-bottom: 10px; line-height: 1.4; text-align: center; color: #fff; font-size: 14px;">
 
-  <strong><i>Dora Ai Chatbot</i></strong>   
+
+  <strong><i>Dora AI Chatbot</i></strong>   
   </p>
 <p style="margin-bottom: 10px; line-height: 1.4;">
 • Dibangunkan secara persendirian dan terbuka, dengan sumber yang terhad.
@@ -1276,41 +1276,110 @@ ul li::before {
       </p>
       
       <div style="margin: 15px 0; padding: 10px; background: rgba(0,0,0,0.3); border-radius: 5px;">
-        <div style="margin-bottom: 5px; color: #fff;">
-          <i class="fas fa-university"></i> <strong>RHB Bank Malaysia</strong>
-        </div>
-        <div style="margin-bottom: 8px; font-family: monospace;">
-          No Akaun: <span id="accountNumber">16207200095095</span>
-        </div>
-        <button id="copyAccountBtn" style="
-          width: 100%;
-          background: rgba(0,122,255,0.2);
-          border: 1px solid #007AFF;
-          color: #007AFF;
-          padding: 6px 12px;
-          border-radius: 4px;
-          cursor: pointer;
-          font-size: 11px;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          transition: all 0.3s;
-        ">
-          <i class="fas fa-copy" style="margin-right: 5px;"></i> Salin Nombor Akaun
-        </button>
-      </div>
-      
+  <div style="margin-bottom: 5px; color: #fff;">
+    <i class="fas fa-university"></i> <strong>Touch 'n Go eWallet</strong>
+  </div>
+  
+  <!-- Maklumat Akaun -->
+  <div style="margin-bottom: 8px; font-family: monospace; color: #fff;">
+    No Akaun: <span id="accountNumber">150979504703</span>
+  </div>
+  
+  <!-- Button Copy -->
+  <button id="copyAccountBtn" style="
+    width: 100%;
+    background: rgba(0,122,255,0.2);
+    border: 1px solid #007AFF;
+    color: #007AFF;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s;
+    margin-bottom: 15px;
+  ">
+    <i class="fas fa-copy" style="margin-right: 5px;"></i> Salin Nombor Akaun
+  </button>
+  
+  <!-- QR Code Image -->
+  <div style="text-align: center;">
+    <img src="TNG-QR.jpg" 
+         alt="Touch 'n Go QR Code" 
+         id="qrCodeImage"
+         style="max-width: 120px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
+    <p style="color: #aaa; font-size: 10px; margin-top: 5px;">Imbas QR Code untuk bayaran</p>
+    
+    <!-- Button Save QR -->
+    <button id="saveQrBtn" style="
+      width: 100%;
+      background: rgba(52, 199, 89, 0.2);
+      border: 1px solid #34C759;
+      color: #34C759;
+      padding: 6px 12px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 11px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s;
+      margin-top: 10px;
+    ">
+      <i class="fas fa-download" style="margin-right: 5px;"></i> Save QR Code
+    </button>
+  </div>
+</div>
+
+<script>
+// Function untuk salin nombor akaun
+document.getElementById('copyAccountBtn').addEventListener('click', function() {
+  var accountNumber = document.getElementById('accountNumber').innerText;
+  navigator.clipboard.writeText(accountNumber).then(function() {
+    alert('Nombor akaun telah disalin!');
+  }, function() {
+    alert('Gagal menyalin nombor akaun.');
+  });
+});
+
+// Function untuk save QR Code
+document.getElementById('saveQrBtn').addEventListener('click', function() {
+  var qrImage = document.getElementById('qrCodeImage');
+  
+  // Dapatkan URL gambar
+  var imgUrl = qrImage.src;
+  
+  // Buat element link sementara
+  var link = document.createElement('a');
+  link.href = imgUrl;
+  link.download = 'TNG-QR.jpg'; // Nama fail untuk disimpan
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+});
+</script>
+
+<!-- Optional: Tambah badge atau icon untuk lebih menarik -->
+<div style="display: flex; gap: 5px; justify-content: center; margin-bottom: 10px;">
+  <span style="background: #FF5F1F; color: white; padding: 2px 8px; border-radius: 12px; font-size: 10px;">✓ Secure</span>
+  <span style="background: #00A86B; color: white; padding: 2px 8px; border-radius: 12px; font-size: 10px;">✓ Verified</span>
+</div>
+
+<!--Malumat pembangun sistem-->      
       <div style="margin-top: 15px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.1);">
         <div style="color: #fff; margin-bottom: 5px;">
           <i class="fas fa-user-cog"></i> <strong>Pembina platform:</strong>
         </div>
         <a href="https://t.me/johansetia" target="_blank" style="color: #0088cc; text-decoration: none; display: flex; align-items: center; font-size: 11px;">
-          <i class="fab fa-telegram" style="margin-right: 5px;"></i> Telegram — @johansetia
+          <i class="fab fa-telegram" style="margin-right: 5px; font-size: 15px;"></i> Telegram — @johansetia
         </a>
       </div>
     </div>
   </div>
 </div>
+
 
   <!-- Overlay untuk tutup menu -->
   <div id="menuOverlay" style="
