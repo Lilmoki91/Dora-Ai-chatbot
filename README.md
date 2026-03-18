@@ -291,15 +291,6 @@ Cara Derma WorldChain:
 
 ---
 
-📋 Ringkasan Kaedah Pembayaran
-
-Kaedah Butiran Akaun QR Code
-🏦 RHB Bank 16207200095095 <img src="https://raw.githubusercontent.com/Lilmoki91/Dora-Ai-chatbot/refs/heads/main/RHB-BANK-QR.jpg" width="80"/>
-🇲🇾 Touch 'n Go 150979504703 <img src="https://raw.githubusercontent.com/Lilmoki91/Dora-Ai-chatbot/refs/heads/main/TNG-QR.jpg" width="80"/>
-🌐 WorldChain 0x9e194F4d7...1AC4A28 <img src="https://raw.githubusercontent.com/Lilmoki91/Dora-Ai-chatbot/refs/heads/main/wld-acc.jpg" width="80"/>
-
----
-
 💝 Tiada paksaan, setiap sumbangan ikhlas amat dihargai. Sama ada RM1, RM10, atau sekadar bintang di GitHub, semuanya bermakna!
 
 <p align="center">
