@@ -27,7 +27,7 @@
 ## 📋 Senarai Kandungan
 
 - [Tentang Projek](#-tentang-projek)
-- [Halaman utama](#-Halaman-utama)
+- [Halaman utama](#-Halaman-utama-Ui-interface)
 - [Ciri-ciri Utama](#-ciri-ciri-utama)
 - [Demo Langsung](#-demo-langsung)
 - [Mulakan](#-mulakan)
@@ -53,7 +53,7 @@ Projek ini dimulakan sebagai inisiatif peribadi untuk menunjukkan bagaimana AI b
 
 ---
 
-## 🏠 **Halaman utama** Ui interface
+## 🏠 Halaman utama Ui interface
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lilmoki91/Dora-Ai-chatbot/refs/heads/main/Dora-Ai(laman-utama).jpg" alt="Dora Ai Chatbot Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
