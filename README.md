@@ -254,7 +254,7 @@ Platform ini dibangunkan secara persendirian dengan sumber terhad. Jika anda ras
 
 🏦 RHB Bank (Malaysia)
 
-No. Akaun: 16207200095095
+No. Akaun: ```16207200095095```
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Lilmoki91/Dora-Ai-chatbot/refs/heads/main/RHB-BANK-QR.jpg" alt="RHB Bank QR" width="250"/>
@@ -274,7 +274,7 @@ Cara Derma RHB Bank:
 
 🇲🇾 Touch 'n Go eWallet
 
-No. Akaun: 150979504703
+No. Akaun: ```150979504703```
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Lilmoki91/Dora-Ai-chatbot/refs/heads/main/TNG-QR.jpg" alt="TNG eWallet QR" width="250"/>
@@ -296,7 +296,7 @@ Cara Derma TNG eWallet:
 🌐 WorldChain Network (Worldcoin Wallet)
 
 Network: WorldChain
-Alamat Wallet: 0x9e194F4d7eb5fa82BD26491e23D19f23e1AC4A28
+Alamat Wallet: ```0x9e194F4d7eb5fa82BD26491e23D19f23e1AC4A28```
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Lilmoki91/Dora-Ai-chatbot/refs/heads/main/wld-acc.jpg" alt="WorldChain Wallet QR" width="250"/>
