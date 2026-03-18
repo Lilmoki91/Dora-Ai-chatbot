@@ -336,7 +336,7 @@ Terima kasih kepada semua yang telah menyokong projek ini:
 
 Komuniti Malaysia - Atas sokongan dan semangat untuk teknologi tempatan!
 
----
+
 
 <div align="center">
   <hr width="80%">
