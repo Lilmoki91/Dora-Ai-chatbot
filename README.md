@@ -205,7 +205,7 @@ Panduan Sumbangan:
 
 ---
 
-🧪 Rancangan Masa Depan
+### 🧪 Rancangan Masa Depan
 
 • Integrasi API AI - Sambung ke API AI yang lebih mantap (OpenAI, Gemini, dll)
 
@@ -225,7 +225,7 @@ Panduan Sumbangan:
 
 ---
 
-📞 Hubungi Kami
+### 📞 Hubungi Kami
 
 Ada soalan, cadangan, atau hanya nak borak? Jangan malu-malu!
 
