@@ -125,7 +125,7 @@ Tips Penggunaan:
 
 ---
 
-📁 Struktur Folder
+### 📁 Struktur Folder
 
 ```
 Dora-Ai-chatbot/
@@ -144,7 +144,7 @@ Dora-Ai-chatbot/
 
 ---
 
-🛠️ Teknologi
+### 🛠️ Teknologi
 
 Teknologi Fungsi
 https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white Struktur laman web
@@ -154,7 +154,7 @@ https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoCo
 
 ---
 
-🤝 Sumbangan
+### 🤝 Sumbangan
 
 Kami sangat mengalu-alukan sumbangan daripada komuniti! Sama ada anda developer, designer, atau pengguna biasa, sumbangan anda amat dihargai.
 
@@ -181,19 +181,27 @@ git push origin fitur-baru-anda
 
 Apa yang Boleh Disumbangkan?
 
-· 🐛 Lapor bug - Jumpa masalah? Buat issue di GitHub
-· 💡 Cadang fitur - Ada idea menarik? Kongsikan!
-· 📝 Baiki dokumentasi - Bantu kemas kini README
-· 🌐 Terjemahan - Bantu terjemah ke pelbagai bahasa
-· 🎨 Reka bentuk UI/UX - Cadangkan penambahbaikan visual
-· ⚡ Optimisasi kod - Bantu jadikan kod lebih efisien
+• 🐛 Lapor bug - Jumpa masalah? Buat issue di GitHub
 
-Panduan Sumbangan
+• 💡 Cadang fitur - Ada idea menarik? Kongsikan!
 
-· Pastikan kod anda kemas dan mempunyai komen
-· Patuhi struktur folder yang sedia ada
-· Nyatakan dengan jelas apa yang anda tambah/baiki dalam commit message
-· Uji perubahan anda sebelum hantar PR
+• 📝 Baiki dokumentasi - Bantu kemas kini README
+
+• 🌐 Terjemahan - Bantu terjemah ke pelbagai bahasa
+
+• 🎨 Reka bentuk UI/UX - Cadangkan penambahbaikan visual
+
+• ⚡ Optimisasi kod - Bantu jadikan kod lebih efisien
+
+Panduan Sumbangan:
+
+• Pastikan kod anda kemas dan mempunyai komen
+
+• Patuhi struktur folder yang sedia ada
+
+• Nyatakan dengan jelas apa yang anda tambah/baiki dalam commit message
+
+• Uji perubahan anda sebelum hantar PR
 
 ---
 
@@ -229,7 +237,7 @@ Platform Link Tujuan
 
 ---
 
-☕ Derma / Sokongan
+### ☕ Derma / Sokongan
 
 Platform ini dibangunkan secara persendirian dengan sumber terhad. Jika anda rasa projek ini bermanfaat dan ingin menyokong, berikut adalah kaedah pembayaran yang tersedia:
 
@@ -300,20 +308,23 @@ Cara Derma WorldChain:
 
 > 💝 Tiada paksaan, setiap sumbangan ikhlas amat dihargai. Sama ada RM1, RM10, atau sekadar bintang di GitHub, semuanya bermakna!
 
-> <p align="center">
+  <p align="center">
   <i>"Siapa yang menanam, dia yang menuai. Siapa yang memberi, dia yang menerima."</i><br>
   <b>Semoga hidup anda diberkahi dan dimurahkan rezeki. 🙏</b>
 </p>
 
 ---
 
-📜 Lesen
+### 📜 Lesen
 
 Projek ini dilindungi di bawah MIT License - anda bebas untuk:
 
 • ✅ Menggunakan secara komersial
+
 • ✅ Mengubahsuai kod
+
 • ✅ Mengedarkan semula
+
 • ✅ Menggunakan secara peribadi
 
 Dengan syarat kredit diberikan kepada penulis asal.
@@ -331,14 +342,18 @@ Lesen Penuh
 
 ---
 
-👏 Penghargaan
+### 👏 Penghargaan
 
 Terima kasih kepada semua yang telah menyokong projek ini:
 
 • 🌟 Pengguna - Yang mencuba dan memberi maklum balas
+
 • ⭐ Stargazers - Yang menanda bintang di GitHub
+
 • 🤝 Contributors - Yang menyumbang kod dan idea
+
 • 💰 Donators - Yang menderma untuk sokongan kewangan
+
 • 👨‍💻 Developer - Yang membantu baiki bug
 
 Komuniti Malaysia - Atas sokongan dan semangat untuk teknologi tempatan!
