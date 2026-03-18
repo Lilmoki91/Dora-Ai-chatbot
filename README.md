@@ -125,7 +125,7 @@ Tips Penggunaan:
 
 ---
 
-### 📁 Struktur Folder
+## 📁 Struktur Folder
 
 ```
 Dora-Ai-chatbot/
@@ -144,7 +144,7 @@ Dora-Ai-chatbot/
 
 ---
 
-### 🛠️ Teknologi
+## 🛠️ Teknologi
 
 Teknologi Fungsi
 https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white Struktur laman web
@@ -154,7 +154,7 @@ https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoCo
 
 ---
 
-### 🤝 Sumbangan
+## 🤝 Sumbangan
 
 Kami sangat mengalu-alukan sumbangan daripada komuniti! Sama ada anda developer, designer, atau pengguna biasa, sumbangan anda amat dihargai.
 
@@ -179,7 +179,7 @@ git push origin fitur-baru-anda
 # 6. Buat Pull Request (PR) di GitHub
 ```
 
-Apa yang Boleh Disumbangkan?
+### Apa yang Boleh Disumbangkan?
 
 • 🐛 Lapor bug - Jumpa masalah? Buat issue di GitHub
 
@@ -205,7 +205,7 @@ Panduan Sumbangan:
 
 ---
 
-### 🧪 Rancangan Masa Depan
+## 🧪 Rancangan Masa Depan
 
 • Integrasi API AI - Sambung ke API AI yang lebih mantap (OpenAI, Gemini, dll)
 
@@ -225,11 +225,11 @@ Panduan Sumbangan:
 
 ---
 
-### 📞 Hubungi Kami
+## 📞 Hubungi Kami
 
 Ada soalan, cadangan, atau hanya nak borak? Jangan malu-malu!
 
-Platform Link Tujuan
+### Platform Link Tujuan
 📧 Email khairuldinsuyitno@gmail.com Pertanyaan umum, kerjasama
 💬 Telegram @johansetia Sembang cepat, sokongan teknikal
 🐛 GitHub Issues Laporkan Masalah Bug, cadangan fitur
@@ -237,7 +237,7 @@ Platform Link Tujuan
 
 ---
 
-### ☕ Derma / Sokongan
+## ☕ Derma / Sokongan
 
 Platform ini dibangunkan secara persendirian dengan sumber terhad. Jika anda rasa projek ini bermanfaat dan ingin menyokong, berikut adalah kaedah pembayaran yang tersedia:
 
@@ -315,9 +315,9 @@ Cara Derma WorldChain:
 
 ---
 
-### 📜 Lesen
+## 📜 Lesen
 
-Projek ini dilindungi di bawah MIT License - anda bebas untuk:
+### Projek ini dilindungi di bawah MIT License - anda bebas untuk:
 
 • ✅ Menggunakan secara komersial
 
@@ -342,9 +342,9 @@ Lesen Penuh
 
 ---
 
-### 👏 Penghargaan
+## 👏 Penghargaan
 
-Terima kasih kepada semua yang telah menyokong projek ini:
+### Terima kasih kepada semua yang telah menyokong projek ini:
 
 • 🌟 Pengguna - Yang mencuba dan memberi maklum balas
 
