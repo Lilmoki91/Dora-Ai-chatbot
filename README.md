@@ -44,7 +44,7 @@
 
 ## 📖 Tentang Projek
 
-**Dora AI Chatbot** adalah sebuah projek sumber terbuka (open-source) yang dibangunkan menggunakan **HTML**, **CSS**, dan **JavaScript**. Ia direka untuk memberikan pengalaman interaktif yang menyeronokkan dengan elemen simulasi quantum deepthink yang diinspirasikan dari karakter Doraemon.
+**Dora AI Chatbot** adalah sebuah projek sumber terbuka (open-source) yang dibangunkan menggunakan **HTML**, **CSS**, dan **JavaScript**. Ia direka untuk memberikan pengalaman interaktif yang menyeronokkan dengan elemen simulasi quantum deepthink.
 
 > 💡 **Objektif Utama**: Menyediakan platform pembelajaran AI yang mudah diakses oleh semua lapisan masyarakat Malaysia sambil memupuk minat dalam teknologi kecerdasan buatan.
 
