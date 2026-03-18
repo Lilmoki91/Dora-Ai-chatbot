@@ -199,14 +199,21 @@ Panduan Sumbangan
 
 🧪 Rancangan Masa Depan
 
-· Integrasi API AI - Sambung ke API AI yang lebih mantap (OpenAI, Gemini, dll)
-· Multibahasa - Sokongan bahasa Melayu, Inggeris, Cina, Tamil
-· Mod Gelap - Tambah dark mode untuk keselesaan mata
-· Sejarah Chat - Simpan perbualan menggunakan localStorage
-· Voice Input - Input suara menggunakan Web Speech API
-· Text-to-Speech - Dengar respons AI
-· Avatar Animasi - Tambah karakter Doraemon yang lebih interaktif
-· Pangkalan Data - Simpan data pengguna (optional)
+• Integrasi API AI - Sambung ke API AI yang lebih mantap (OpenAI, Gemini, dll)
+
+• Multibahasa - Sokongan bahasa Melayu, Inggeris, Cina, Tamil
+
+• Mod Gelap - Tambah dark mode untuk keselesaan mata
+
+• Sejarah Chat - Simpan perbualan menggunakan localStorage
+
+• Voice Input - Input suara menggunakan Web Speech API
+
+• Text-to-Speech - Dengar respons AI
+
+• Avatar Animasi - Tambah karakter yang lebih interaktif
+
+• Pangkalan Data - Simpan data pengguna (optional)
 
 ---
 
@@ -291,9 +298,9 @@ Cara Derma WorldChain:
 
 ---
 
-💝 Tiada paksaan, setiap sumbangan ikhlas amat dihargai. Sama ada RM1, RM10, atau sekadar bintang di GitHub, semuanya bermakna!
+> 💝 Tiada paksaan, setiap sumbangan ikhlas amat dihargai. Sama ada RM1, RM10, atau sekadar bintang di GitHub, semuanya bermakna!
 
-<p align="center">
+> <p align="center">
   <i>"Siapa yang menanam, dia yang menuai. Siapa yang memberi, dia yang menerima."</i><br>
   <b>Semoga hidup anda diberkahi dan dimurahkan rezeki. 🙏</b>
 </p>
@@ -304,10 +311,10 @@ Cara Derma WorldChain:
 
 Projek ini dilindungi di bawah MIT License - anda bebas untuk:
 
-· ✅ Menggunakan secara komersial
-· ✅ Mengubahsuai kod
-· ✅ Mengedarkan semula
-· ✅ Menggunakan secara peribadi
+• ✅ Menggunakan secara komersial
+• ✅ Mengubahsuai kod
+• ✅ Mengedarkan semula
+• ✅ Menggunakan secara peribadi
 
 Dengan syarat kredit diberikan kepada penulis asal.
 
@@ -328,11 +335,11 @@ Lesen Penuh
 
 Terima kasih kepada semua yang telah menyokong projek ini:
 
-· 🌟 Pengguna - Yang mencuba dan memberi maklum balas
-· ⭐ Stargazers - Yang menanda bintang di GitHub
-· 🤝 Contributors - Yang menyumbang kod dan idea
-· 💰 Donators - Yang menderma untuk sokongan kewangan
-· 👨‍💻 Developer - Yang membantu baiki bug
+• 🌟 Pengguna - Yang mencuba dan memberi maklum balas
+• ⭐ Stargazers - Yang menanda bintang di GitHub
+• 🤝 Contributors - Yang menyumbang kod dan idea
+• 💰 Donators - Yang menderma untuk sokongan kewangan
+• 👨‍💻 Developer - Yang membantu baiki bug
 
 Komuniti Malaysia - Atas sokongan dan semangat untuk teknologi tempatan!
 
