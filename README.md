@@ -400,6 +400,6 @@ Komuniti Malaysia - Atas sokongan dan semangat untuk teknologi tempatan!
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lilmoki91/Dora-Ai-chatbot/refs/heads/main/Dora-Ai-Wallpaper.png" alt="Dora AI Chatbot Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Lilmoki91/Dora-Ai-chatbot/refs/heads/main/Azura%26Dora.png" alt="Dora AI Chatbot Banner" width="100%"/>
 </p>
 
