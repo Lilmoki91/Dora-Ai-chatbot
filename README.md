@@ -399,3 +399,7 @@ Komuniti Malaysia - Atas sokongan dan semangat untuk teknologi tempatan!
   </p>
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lilmoki91/Dora-Ai-chatbot/refs/heads/main/Dora-Ai-Wallpaper.png" alt="Dora AI Chatbot Banner" width="100%"/>
+</p>
+
