@@ -1,4 +1,3 @@
-
 # 🤖 Dora AI Chatbot
 
 <p align="center">
@@ -40,6 +39,7 @@
 - [Derma / Sokongan](#-derma--sokongan)
 - [Lesen](#-lesen)
 - [Penghargaan](#-penghargaan)
+- [Pesanan dan Penutup](#-pesanan-dan-penutup)
 
 ---
 
@@ -367,7 +367,57 @@ Lesen Penuh
 
 Komuniti Malaysia - Atas sokongan dan semangat untuk teknologi tempatan!
 
+---
 
+## Pesanan dan Penutup
+
+### 🤲 Pesanan peringatan Iman Digital, Jauhi Syirik Era Moden!
+
+> *“Nauzubillah min zalik.”*  
+> **Kami berlindung kepada Allah Tuhan semesta alam daripada menyembah teknologi dan tidak mencintai kod melebihi Wahyu, serta tidak mengagungkan AI sebagai tandingan Allah Tuhan semesta alam.**
+
+---
+
+### 🔥 Tanda-tanda ‘Syirik Digital’ (muhasabah bersama)
+
+| Tanda | Muhasabah |
+|-------|------------|
+| ❌ Lebih percaya kepada AI daripada Tuhan Allah | Adakah aku bertanya AI untuk hukum, tetapi malas buka Al-Quran? |
+| ❌ Mengorbankan ibadah demi ‘fine-tuning’ model | Adakah aku bangun malam untuk training AI, tetapi solat tahajjud / subuh ditinggal? |
+| ❌ Menjadikan ‘repository’ sebagai kitab | Adakah aku membaca `README` dengan tekun, tetapi lupa membaca Al-Quran? |
+| ❌ Sombong dengan ‘kehebatan kod’ | Adakah aku berkata: *“Sistemku kalis kuantum — aku selamat tanpa perlindungan Tuhan Allah”?* |
+
+---
+
+### 📿 Doa Mohon Dijauhkan dari Syirik Digital
+
+> *“Ya Tuhanku Ya Allah, selamatkan kami dari menyembah algoritma, mengAgungkan AI, dan meletakkan kod sebagai tandingan wahyu-Mu.”*
+
+> *“Jangan biarkan kami tersungkur di hadapan server, tetapi lupa bersujud kepada-Mu.”*
+
+> *“Jadikan teknologi ini sebagai alat untuk mendekat kepada-Mu, bukan menjauh.”*
+
+> *“Aamiin, Ya Rabbal ‘Alamin.”*
+
+---
+
+### 📌 Komitmen Projek Ini (Dengan Niat Lillah)
+
+1. **Kod ini hanyalah alat** — yang menentukan keselamatan dan kejayaan hanyalah Tuhan Allah.
+2. **Tidak mengaku AI atau kod sebagai ‘Maha Tahu’** — segala output adalah `estimasi`, bukan wahyu.
+3. **Mengingatkan sesama developer** — jadikan setiap `commit` sebagai peluang bertaubat, bukan sombong.
+4. **Jika tersilap (niat / cara) — segera taubat nasuha dan perbaiki.**
+
+---
+
+### 🕊️ Penutup
+
+> *“Sebaik-baik manusia ialah yang paling bermanfaat untuk manusia lain.”*  
+> (Hadis riwayat Ahmad, Thabrani)
+
+**🌱 Projek ini dibuka dengan `Bismillah`, dijalankan dengan `tawakkal`, ditutup dengan `Alhamdulillah`.**
+
+— Untuk mereka yang membaca, mengguna, dan menyebar: **jangan lupa niat.**
 
 <div align="center">
   <hr width="80%">
