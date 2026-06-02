@@ -341,7 +341,7 @@ Dengan syarat kredit diberikan kepada penulis asal.
 ```
 MIT License
 
-Copyright (c) 2024 Khairuldin Suyitno (Lilmoki91)
+Copyright (c) 2026 zulkarnain projek it pelajar Sekolah Menengah Kebangsaan Rantau Panjang Klang Selangor Malaysia 🇲🇾.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
