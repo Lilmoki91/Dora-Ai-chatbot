@@ -45,6 +45,8 @@
 
 ## 📖 Tentang Projek
 
+**Pembangun** projek it kecil ini dibina secara persendirian oleh **Zulkarnain Bin Suyitno pelajar sekolah Menenegah Kebangsaan Rantau Panjang Klang Selangor Malaysia 🇲🇾.**
+
 **Dora AI Chatbot** adalah sebuah projek sumber terbuka (open-source) yang dibangunkan menggunakan **HTML**, **CSS**, dan **JavaScript**. Ia direka untuk memberikan pengalaman interaktif yang menyeronokkan dengan elemen simulasi quantum deepthink.
 
 > 💡 **Objektif Utama**: Menyediakan platform pembelajaran AI yang mudah diakses oleh semua lapisan masyarakat Malaysia sambil memupuk minat dalam teknologi kecerdasan buatan.
@@ -341,7 +343,7 @@ Dengan syarat kredit diberikan kepada penulis asal.
 ```
 MIT License
 
-Copyright (c) 2026 zulkarnain projek it pelajar Sekolah Menengah Kebangsaan Rantau Panjang Klang Selangor Malaysia 🇲🇾.
+Copyright (c) 2026 zulkarnain bin Suyitno, projek it pelajar Sekolah Menengah Kebangsaan Rantau Panjang Klang Selangor Malaysia 🇲🇾.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
