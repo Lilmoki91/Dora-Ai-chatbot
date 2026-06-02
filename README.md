@@ -40,7 +40,7 @@
 - [Lesen](#-lesen)
 - [Penghargaan](#-penghargaan)
 - [Pesanan dan Penutup](#-pesanan-dan-penutup)
--  [Pesanan dan Penutuo teks jawi](#-pesanan-dan-penutup-teks-jawi)
+-  [Pesanan dan Penutup teks jawi](#-pesanan-dan-penutup-teks-jawi)
 
 ---
 
